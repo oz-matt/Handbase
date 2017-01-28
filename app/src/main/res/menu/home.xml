@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--<item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>-->
+
+    <item
+        android:id="@+id/item_part"
+        android:title="@string/part_lookup_name"
+        android:icon="@drawable/tool"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/item_settings"
+        android:title="@string/settings_name"
+        android:icon="@drawable/settings"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/item_refresh"
+        android:title="@string/refresh_name"
+        android:icon="@drawable/refresh"
+        app:showAsAction="ifRoom"/>
+
+</menu>

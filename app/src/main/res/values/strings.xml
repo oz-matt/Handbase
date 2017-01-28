@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Ergotronics Handbase</string>
+    <string name="app_name">Handbase</string>
+    <string name="refresh_name">Refresh Database</string>
+    <string name="settings_name">Settings</string>
+    <string name="part_lookup_name">Part Look-Up</string>
+    <string name="title_activity_part_query">PartQuery</string>
+    <string name="partquery">PartQuery</string>
+    <string name="process">Process</string>
+    <string name="cancel">Cancel</string>
 </resources>
